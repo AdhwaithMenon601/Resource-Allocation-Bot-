@@ -1,0 +1,6 @@
+resource_weights_0000.hdf5
+resource_weights_0050.hdf5
+robot_weights_0000.hdf5
+ResourceAlloc.egg-info/
+images/
+dist/

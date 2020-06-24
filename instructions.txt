@@ -1,0 +1,36 @@
+This is the instructions to run the program for resource allocation
+Program has been ammended to include allocation of robots as well as step by step instructions for them
+Other instructions are the same 
+
+This given program works for n number of parts 
+
+Required Downloads
+OPEN AI gym is Required
+The command to install is -
+pip install gym
+pip install numpy
+pip install keras
+
+To run ,first please change all "._py" extensions into ".py"
+
+On doing the above , one can choose to run the following -
+./run.sh
+Additionally if the user is not operating on the root priveleges , type -
+chmod +x run.sh
+
+
+LIST OF ALL COMMANDS:
+pip install gym
+pip install numpy
+pip install keras
+
+chmod +x run.sh
+./run.sh
+
+
+
+(Make sure you are in the main folder directory when running the .sh file)
+
+The entire program takes around 5min to run with GPU support , on CPU it takes around 12min
+
+A sample output is given in the images folder while , weights are stored as .hdf5 respectively.
